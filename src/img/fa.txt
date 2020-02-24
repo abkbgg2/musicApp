@@ -1,0 +1,34 @@
+Header
+
+<i class="far fa-envelope"></i>		mail
+<i class="fas fa-mobile-alt"></i>	phone
+<i class="fab fa-facebook-f"></i>	facebook
+<i class="fab fa-twitter"></i>		twitter
+<i class="fab fa-google"></i>		google
+
+header block
+<i class="fab fa-apple"></i> 		apple
+
+features 
+<i class="fas fa-th"></i> 		кубики
+<i class="fas fa-cog"></i> 		шестиренка
+<i class="fas fa-paint-brush"></i>	кисть
+
+first ever app
+<i class="fas fa-cogs"></i> 		шестиренки
+<i class="far fa-clock"></i>		clock
+<i class="fas fa-mobile-alt"></i>	phone
+
+who we are
+<i class="fab fa-google-plus-g"></i>	g+
+<i class="fab fa-pinterest-p"></i>	pinterest
+<i class="fab fa-google"></i>		google
+
+our parents
+<i class="fab fa-spotify"></i>		spotify
+<i class="fab fa-apple"></i> 		apple
+<i class="fab fa-napster"></i>		napster
+
+footer
+<i class="fas fa-globe-americas"></i>	earth
+<i class="fas fa-phone-alt"></i>	phone
